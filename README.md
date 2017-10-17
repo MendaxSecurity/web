@@ -1,1 +1,1 @@
-# web
+# MendaxSecurity's main marketing website
